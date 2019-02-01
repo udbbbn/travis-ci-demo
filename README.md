@@ -1,4 +1,5 @@
 ![avatar](https://travis-ci.org/udbbbn/travis-ci-demo.svg?branch=master)
+
 This is a beginner tutorial of Travis CI for Node projects.
 
 ## How to use
